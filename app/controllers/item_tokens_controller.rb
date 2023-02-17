@@ -1,0 +1,2 @@
+class ItemTokensController < ApplicationController
+end

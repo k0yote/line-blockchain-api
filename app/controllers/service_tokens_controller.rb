@@ -1,0 +1,2 @@
+class ServiceTokensController < ApplicationController
+end

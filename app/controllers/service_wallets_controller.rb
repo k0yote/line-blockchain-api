@@ -1,0 +1,2 @@
+class ServiceWalletsController < ApplicationController
+end

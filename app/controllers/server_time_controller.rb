@@ -1,0 +1,2 @@
+class ServerTimeController < ApplicationController
+end
